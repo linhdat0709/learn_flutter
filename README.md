@@ -16,12 +16,12 @@ These instructions will help you set up and run the project on your local machin
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/music-player-app.git
+   git clone https://github.com/linhdat0709/learn_flutter.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd music-player-app
+   cd music-app
    ```
 
 3. Install dependencies:
@@ -48,5 +48,11 @@ flutter build apk
 ### Contributing
 
 We welcome contributions to this project. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+
 
 
